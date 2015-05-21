@@ -26,3 +26,4 @@ escribehistoria('la app se desconecto de la red');
 
 function escribehistoria(accion){
 $('#eHistoria').append('<li>'+accion+'</li>');
+}
